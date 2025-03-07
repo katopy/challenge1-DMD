@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Desafio Practico 1 - GS222376", "Desafio Practico 1 - GS222376\Desafio Practico 1 - GS222376.dtproj", "{F0932D3D-449C-FA8C-DF3A-2B990C689A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0932D3D-449C-FA8C-DF3A-2B990C689A01}.Development|Default.ActiveCfg = Development
+		{F0932D3D-449C-FA8C-DF3A-2B990C689A01}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A59C905-B71F-409E-A057-02B5CCC3F476}
+	EndGlobalSection
+EndGlobal
